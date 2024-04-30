@@ -1,4 +1,4 @@
 /**
- * @XLICON_V2
- * https://github.com/salmanytofficial/XLICON-V2-MD
+ * @Usman_V2
+ * https://github.com/Hashim3233099/XLICON-V2-MD
  */
