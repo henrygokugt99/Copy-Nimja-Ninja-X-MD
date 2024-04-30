@@ -1,4 +1,4 @@
-# `XLICON-V2-MD`
+# `Usman-V2-MD`
 <br>
 <br>
 
@@ -6,37 +6,37 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its%20XLICON-V2-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20SALMAN%20AHMAD)
 <p align="center">
   
->XLICON-V2-MD is based on :
+>Usman-V2-MD is based on :
 >- [GURU BOT](https://github.com/Guru322/GURU-BOT) by [Guru](https://github.com/Guru322) (License: Apache License 2.0)
 >
 > :octocat: Don't forget to check out! :point_right: [GURU BOT](https://github.com/Guru322/GURU-BOT)
 </p>
 
 ## 🌟 `Bot Intro and Features`
-[![XLICON](https://i.imgur.com/bWfDDEU.jpg)](https://youtu.be/WcA7GZuaN0A)
+[![Usman](https://i.imgur.com/bWfDDEU.jpg)](https://youtu.be/WcA7GZuaN0A)
 
-### ℹ️ **About XLICON-V2**
-XLICON-V2 is a versatile Multi-Device WhatsApp bot developed by [Salman Ahamed](https://github.com/salmanytofficial). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
+### ℹ️ **About Usman-V2**
+Usman-V2 is a versatile Multi-Device WhatsApp bot developed by [Usman Ahamed](https://github.com/salmanytofficial). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
 
-<p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V2}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V2}/count.svg" alt="Usman AHMAD :: Visitor's Count" /></p>
 
 ### **Bot Statistics**
-![Bot Repository Size](https://img.shields.io/github/repo-size/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Issues](https://img.shields.io/github/issues/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Stars](https://img.shields.io/github/stars/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Forks](https://img.shields.io/github/forks/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Watchers](https://img.shields.io/github/watchers/salmanytofficial/XLICON-V2-MD?label=Watchers&style=for-the-badge)
-![Bot Repository Contributors](https://img.shields.io/github/contributors/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Pull Requests](https://img.shields.io/github/issues-pr/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository License](https://img.shields.io/github/license/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
+![Bot Repository Size](https://img.shields.io/github/repo-size/Usmantofficial/Usman-V2-MD?style=for-the-badge)
+![Bot Repository Issues](https://img.shields.io/github/issues/Usmantofficial/Usman-V2-MD?style=for-the-badge)
+![Bot Repository Stars](https://img.shields.io/github/stars/salmanytofficial/Usman-V2-MD?style=for-the-badge)
+![Bot Repository Forks](https://img.shields.io/github/forks/salmanytofficial/Usman-V2-MD?style=for-the-badge)
+![Bot Repository Watchers](https://img.shields.io/github/watchers/salmanytofficial/Usman-V2-MD?label=Watchers&style=for-the-badge)
+![Bot Repository Contributors](https://img.shields.io/github/contributors/salmanytofficial/Usman-V2-MD?style=for-the-badge)
+![Bot Repository Pull Requests](https://img.shields.io/github/issues-pr/salmanytofficial/Usman-V2-MD?style=for-the-badge)
+![Bot Repository License](https://img.shields.io/github/license/salmanytofficial/Usman-V2-MD?style=for-the-badge)
 
 ####  
-*XLICON-V2* - A Advanced Multi Device whatsapp bot Based on *GURU-BOT*
+*Usman-V2* - A Advanced Multi Device whatsapp bot Based on *GURU-BOT*
 
 ***
 
 ## ⭐ `Star This Repo`
-If you find XLICON-V2-MD helpful, consider giving it a star ⭐ to show your appreciation.
+If you find Usman-V2-MD helpful, consider giving it a star ⭐ to show your appreciation.
 
 Thanks to all contributors! 🚀
 
@@ -57,17 +57,17 @@ Thanks to all contributors! 🚀
 ## 🛠️ `Installation Methods`
 1. Fork the repo
     <br>
-<a href='https://github.com/salmanytofficial/XLICON-V2-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/salmanytofficial/Usman-V2-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
 2. Get Session ID (SERVER 1)
     <br>
-<a href='https://replit.com/@S4SalmanYt/XLICON-V2-PAIRING' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@S4SalmanYt/Usman-V2-PAIRING' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 2. Get Session ID (SERVER 2)
     <br>
-<a href='https://replit.com/@mznking04/XLICON-PAIR-CODE' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/@mznking04/Usman-PAIR-CODE' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 ## 🚀 `Deployments`
@@ -79,7 +79,7 @@ Thanks to all contributors! 🚀
 
 2. Now Deploy
     <br>
-<a href='https://xlicon-v2-deploy.vercel.app/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://Usman-v2-deploy.vercel.app/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 #### DEPLOY TO REPLIT
 
@@ -90,7 +90,7 @@ Thanks to all contributors! 🚀
 
 2. Now Deploy
     <br>
-    <a href='https://repl.it/github/salmanytofficial/XLICON-V2-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://repl.it/github/salmanytofficial/Usman-V2-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 
 
@@ -169,14 +169,14 @@ NOW Deploy👇
 ## `OWNER` 
 <a href="https://github.com/salmanytofficial"><img src="https://github.com/salmanytofficial.png" width="250" height="250" alt="Salman Ahmad"/></a>
   
-**XLICON-V2** - By `salmanytofficial`
+**Usman-V2** - By `salmanytofficial`
 <br>
 `Development , Maintainence , Bot Updates`
 
 ## `Main Dev` 
 <a href="https://github.com/abrahamdw882"><img src="https://i.imgur.com/100UXHy.jpg" width="250" height="250" alt="Abraham Dwamena"/></a>
   
-**XLICON-V2** - By `abrahamdw882`
+**Usman-V2** - By `abrahamdw882`
 <br>
 `Development , Features Enhancement , Plugin Debbuging`
 
