@@ -6,19 +6,19 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its%20XLICON-V2-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20SALMAN%20AHMAD)
 <p align="center">
   
->XLICON-V2-MD is based on :
+>COPY-NINJA-X-MD is based on :
 >- [GURU BOT](https://github.com/Guru322/GURU-BOT) by [Guru](https://github.com/Guru322) (License: Apache License 2.0)
 >
 > :octocat: Don't forget to check out! :point_right: [GURU BOT](https://github.com/Guru322/GURU-BOT)
 </p>
 
 ## 🌟 `Bot Intro and Features`
-[![XLICON](https://i.imgur.com/bWfDDEU.jpg)](https://youtu.be/WcA7GZuaN0A)
+[![COPY-NINJA-X-MD](https://i.imgur.com/bWfDDEU.jpg)](https://youtu.be/WcA7GZuaN0A)
 
-### ℹ️ **About XLICON-V2**
-XLICON-V2 is a versatile Multi-Device WhatsApp bot developed by [Salman Ahamed](https://github.com/salmanytofficial). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
+### ℹ️ **About COPY-NINJA-X-MD**
+COPY-NINJA-X-MD is a versatile Multi-Device WhatsApp bot developed by [Salman Ahamed](https://github.com/uchihalord). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
 
-<p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V2}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{COPY-NINJA-X-MD}/count.svg" alt="ASHLEY KAKASHI :: Visitor's Count" /></p>
 
 ### **Bot Statistics**
 ![Bot Repository Size](https://img.shields.io/github/repo-size/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
@@ -26,17 +26,17 @@ XLICON-V2 is a versatile Multi-Device WhatsApp bot developed by [Salman Ahamed](
 ![Bot Repository Stars](https://img.shields.io/github/stars/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
 ![Bot Repository Forks](https://img.shields.io/github/forks/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
 ![Bot Repository Watchers](https://img.shields.io/github/watchers/salmanytofficial/XLICON-V2-MD?label=Watchers&style=for-the-badge)
-![Bot Repository Contributors](https://img.shields.io/github/contributors/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Pull Requests](https://img.shields.io/github/issues-pr/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository License](https://img.shields.io/github/license/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
+![Bot Repository Contributors](https://img.shields.io/github/contributors/uchihalord/COPY-NINJA-X-MD?style=for-the-badge)
+![Bot Repository Pull Requests](https://img.shields.io/github/issues-pr/uchihalord/COPY-NINJA-X-MD?style=for-the-badge)
+![Bot Repository License](https://img.shields.io/github/license/uchihalord/COPY-NINJA-X-MD?style=for-the-badge)
 
 ####  
-*XLICON-V2* - A Advanced Multi Device whatsapp bot Based on *GURU-BOT*
+*COPY-NINJA-X-MD* - A Advanced Multi Device whatsapp bot Based on *GURU-BOT*
 
 ***
 
 ## ⭐ `Star This Repo`
-If you find XLICON-V2-MD helpful, consider giving it a star ⭐ to show your appreciation.
+If you find COPY-NINJA-X-MD helpful, consider giving it a star ⭐ to show your appreciation.
 
 Thanks to all contributors! 🚀
 
@@ -57,7 +57,7 @@ Thanks to all contributors! 🚀
 ## 🛠️ `Installation Methods`
 1. Fork the repo
     <br>
-<a href='https://github.com/salmanytofficial/XLICON-V2-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/uchihalord/COPY-NINJA-X-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -167,29 +167,30 @@ NOW Deploy👇
 <a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="150" height="150" alt="Guru"/></a>
 
 ## `OWNER` 
-<a href="https://github.com/salmanytofficial"><img src="https://github.com/salmanytofficial.png" width="250" height="250" alt="Salman Ahmad"/></a>
+<a href="https://github.com/uchihalord"><img src="https://github.com/uchihalord.png" width="250" height="250" alt="Ashley Kakashi"/></a>
   
-**XLICON-V2** - By `salmanytofficial`
+**COPY-NINJA-X-MD** - By `uchihalord`
 <br>
 `Development , Maintainence , Bot Updates`
 
 ## `Main Dev` 
-<a href="https://github.com/abrahamdw882"><img src="https://i.imgur.com/100UXHy.jpg" width="250" height="250" alt="Abraham Dwamena"/></a>
+<a href="https://github.com/uchihalord"><img src="https://i.imgur.com/100UXHy.jpg" width="250" height="250" alt="Ashley Kakashi"/></a>
   
-**XLICON-V2** - By `abrahamdw882`
+**COPY-NINJA-X-MD** - By `uchihalord`
 <br>
 `Development , Features Enhancement , Plugin Debbuging`
 
 ## 🌈 `Support Us`
-- **Mail Us:** [salmansheikh2500@gmail.com](mailto:salmansheikh2500@gmail.com)
+- **Mail Us:** [ashyy4006@gmail@gmail.com](mailto:ashyy4006@gmail.com )
 - **Join Our Support Group:**
  <p align="center">
    
   ## ``Support Group``
    
-   [![WHATSAPP](https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://chat.whatsapp.com/Lda5nx04JZJJsKsibu0KFR)
+   [![WHATSAPP](https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]).ch
+   (https://chat.whatsapp.com/HT2JHeGnCdrG5Sz64CRicz)
 
-<a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
+<a aria-label="Join our chats" href="https://wa.me/263738403303?text=Hi!! Ashley Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
@@ -212,7 +213,7 @@ Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 ## 🙌 `Bot Developers and Contributors`
 | [![Mzn King](https://github.com/mznking.png)](https://github.com/mznking) | [![Suhail Tech Info](https://github.com/SuhailTechInfo.png)](https://github.com/SuhailTechInfo.) | [![Maher Zubair](https://github.com/Maher-Zubair.png)](https://github.com/Maher-Zubair) | [![VENOX](https://github.com/V-E-N-O-X.png)](https://github.com/V-E-N-O-X) | [![Syntax-king](https://github.com/syntax-king.png)](https://github.com/syntax-king) |
 | -------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------- |
-| **Mzn King**<br>`Contributor`<br>`Bot Development`<br>`Bot Testing` | **Suhail Tech Info**<br>`Contributor`<br>`Feature Testing` |**Maher Zubair**<br>`Contributor`<br>`Bot Testing` | **VENOX**<br>`Menu Designs`<br>`Xlicon Web`<br>`Bot Testing` | **Syntax king**<br>`Contributor`<br>`Bot Testing` |
+| **Mzn King**<br>`Contributor`<br>`Bot Development`<br>`Bot Testing` | **Suhail Tech Info**<br>`Contributor`<br>`Feature Testing` |**Maher Zubair**<br>`Contributor`<br>`Bot Testing` | **VENOX**<br>`Menu Designs`<br>`COPY-NIINJA-XWeb`<br>`Bot Testing` | **Syntax king**<br>`Contributor`<br>`Bot Testing` |
 
 ## 📊 `GitHub Stats of Bot Contributors`
 [![Salman Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanytofficial&show_icons=true&theme=radical)](https://github.com/salmanytofficial)
